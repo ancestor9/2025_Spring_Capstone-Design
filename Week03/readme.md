@@ -7,15 +7,15 @@
   - 🚀 FastAPI에서 templates.TemplateResponse()를 사용할 때는 request 객체를 반드시 전달
      ---> request: Request를 함수의 매개변수로 추가하고, TemplateResponse에 포함하여야 함
 
-jinja
-├── main.py                # FastAPI 애플리케이션
-├── templates/             # Jinja2 템플릿 폴더
-│   ├── index.html         # HTML 템플릿
-│   └── bs4_doc.html       # BeautifulSoup 예제 HTML 파일
-│   └── bootstrap_doc.html # bootstrap  (https://getbootstrap.com/docs/5.3/getting-started/introduction/)
-└── static/                # 정적 파일 폴더
-    ├── style.css          # CSS 파일
-    └── script.js          # JavaScript 파일
+- jinja
+- ├── main.py                # FastAPI 애플리케이션
+- ├── templates/             # Jinja2 템플릿 폴더
+- │   ├── index.html         # HTML 템플릿
+- │   └── bs4_doc.html       # BeautifulSoup 예제 HTML 파일
+- │   └── bootstrap_doc.html # bootstrap  (https://getbootstrap.com/docs/5.3/getting-started/introduction/)
+- └── static/                # 정적 파일 폴더
+-     ├── style.css          # CSS 파일
+-     └── script.js          # JavaScript 파일
 
 ## 설명
 - 작동원리
