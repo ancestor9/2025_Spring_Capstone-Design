@@ -1,37 +1,9 @@
 1. https://www.google.com/robots.txt 
 2. 정적/동적 html 이해 및 실습
-- 정적 html (Static html)
-<html lang="en">
-<head>
-    <title>My website</title>
-</head>
-<body>
-    <h1>My cool website</h1>
-    <p>This is my cool website!</p>
+- 정적 html (Static html) :  rendered_html.html
+- 동적 html (Dynamic html) : source_html.html
 
-    <p>
-        It's super cool!
-    </p>
-    <img src="parrot.jpg"
-         alt="A cool dude">
-</body>
-</html>
-
-- 동적 html (Dynamic html)
-<html lang="en">
-<body>
-    <button>Make me cool</button>
-    <script>
-        document.querySelector('button').onclick = () => {
-            const img = new Image();
-            img.src = 'parrot.jpg';
-            document.body.appendChild(img);
-        };
-    </script>
-</body>
-</html>
-
-** summary
+** Summary --> F12 + copy + LLM
 - Source HTML: 서버에서 받은 원본 정적 HTML (JavaScript 실행 전)
 - Rendered HTML: 브라우저가 JavaScript 실행 후 최종 완성된 HTML (동적 데이터 포함)
 - Beautiful Soup 한계: 정적 웹페이지(Source HTML)만 스크래핑 가능
@@ -39,7 +11,7 @@
   👉 결론: bs4는 정적 웹페이지(Source HTML)만 스크래핑 가능!
   👉 동적 웹페이지(Rendered HTML)는 Selenium 같은 도구를 사용해야 함! 
 
-2. 웹크롤링 및 스크래핑
+2. 웹크롤링 및 스크래핑 실습
  - quotes.toscrape.com	인용구 스크래핑 연습용 사이트
  - books.toscrape.com	책 정보 스크래핑 연습용 사이트
  - news.ycombinator.com	해커 뉴스, 기술 관련 뉴스 및 토론
