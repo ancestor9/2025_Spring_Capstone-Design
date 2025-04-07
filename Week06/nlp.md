@@ -15,4 +15,4 @@
 
 
 1. Tokenizer와 WordEmbedding, Vector DB
-2. chat prompt-template, Chains
+2. Chat prompt-template, Chains
