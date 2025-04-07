@@ -18,7 +18,7 @@
 2. Chat prompt-template, Chains
 3. 외부데이터(pdf, excel, ppt, word emd) 로딩하기
 
-## MCP
+## claude에서 MCP
 --> https://www.youtube.com/watch?v=-X6u8oZd3Qo
 
 1. https://claude.ai/download (claude desktop 다운로드)
