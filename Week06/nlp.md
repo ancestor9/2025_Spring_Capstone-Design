@@ -16,3 +16,4 @@
 
 1. Tokenizer와 WordEmbedding, Vector DB
 2. Chat prompt-template, Chains
+3. 외부데이터(pdf, excel, ppt, word emd) 로딩하기
