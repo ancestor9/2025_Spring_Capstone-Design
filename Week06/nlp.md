@@ -17,3 +17,10 @@
 1. Tokenizer와 WordEmbedding, Vector DB
 2. Chat prompt-template, Chains
 3. 외부데이터(pdf, excel, ppt, word emd) 로딩하기
+
+## MCP
+--> https://www.youtube.com/watch?v=-X6u8oZd3Qo
+
+1. https://claude.ai/download (claude desktop 다운로드)
+2. https://nodejs.org/ko (Node.js 설치)
+3. https://github.com/modelcontextprotocol (깃허브 MCP)
