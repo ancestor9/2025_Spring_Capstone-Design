@@ -26,23 +26,4 @@
 3. https://github.com/modelcontextprotocol (깃허브 MCP)
 
 
-
-{
-  "mcpServers": {
-    "filesystem": {
-      "command": "npx",
-      "args": [
-        "-y",
-        "@modelcontextprotocol/server-filesystem",
-        "C:/Users/조근하/Downloads"
-      ]
-    },
-    "mcp-server-firecrawl": {
-      "command": "npx",
-      "args": ["-y", "firecrawl-mcp"],
-      "env": {
-        "FIRECRAWL_API_KEY": "fc-6146842f15a6c3c4d"
-      }
-    }
-}
-}
+----> claude_desktop_config.json 을 참고하여 여러분 API를 입력하여 작동시키세요
