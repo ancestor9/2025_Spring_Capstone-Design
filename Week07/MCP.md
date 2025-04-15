@@ -1,4 +1,7 @@
-
+### https://platform.openai.com/playground/prompts?models=gpt-4.1
+- Function을 이해하기
+- RAG를 이해하기
+  
 ### https://www.youtube.com/watch?v=Rn5HMaWunx4 
 - https://github.com/dabidstudio/python_mcp_agent
 
