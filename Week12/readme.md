@@ -1,5 +1,6 @@
 ## 1. 통계
-- 통계(統計)는 '묶을 통(統)'과 '셀 계(計)' 두 개의 한자로 구성됩니다. '묶을 통'은 여러 가지를 모아 하나로 묶는 의미이며,
+- 통계(統計)는 '묶을 통(統)'과 '셀 계(計)' 두 개의 한자로 구성됩니다.
+- '묶을 통'은 여러 가지를 모아 하나로 묶는 의미(groupby)이며,
 - '셀 계'는 세거나 계산한다는 의미입니다. 따라서 통계는 '여러 가지를 모아 세거나 계산하는 것'을 의미합니다.(Google)
 
 <img src='https://images.unsplash.com/photo-1610029795220-e5afca4dc7ba?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bGlnaHRob3VzZXxlbnwwfHwwfHx8MA%3D%3D'>
