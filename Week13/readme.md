@@ -5,4 +5,5 @@
 #### 2. Gaussian Naive Model
 - 판별모델과 생성모델(discriminative vs generative model)을 이해
 #### 3. KDE(Kernel Density Estimation)
+- 비지도학습
 #### 4. GAN, autoencoder 모댈
