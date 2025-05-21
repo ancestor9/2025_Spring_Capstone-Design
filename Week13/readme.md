@@ -12,6 +12,3 @@
 #### 3. KDE(Kernel Density Estimation)
 - 비지도학습
 #### 4. GAN, autoencoder 모댈
-
-
-<img src="https://miro.medium.com/v2/resize:fit:1200/0*qFuHAV7Vd09064q-.jpeg" width="600">
