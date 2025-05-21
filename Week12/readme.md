@@ -11,3 +11,6 @@ https://chatgpt.com/share/682be091-fe1c-800f-9242-9034d48fd6d5
 ## 3. Simulation
 - 원주율을 구하는 시뮬레이션 코드를 작성하여 개인 github에 upload하라 (구글시트)
 - 확률분포와 KDE(kernel density estimation) - https://scikit-learn.org/stable/auto_examples/neighbors/plot_kde_1d.html#sphx-glr-auto-examples-neighbors-plot-kde-1d-py
+
+## 4. 유튜브
+- https://www.youtube.com/watch?si=692vqL3Sd_DDqouO&v=IH890jWVu40&feature=youtu.be
