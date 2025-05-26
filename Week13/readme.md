@@ -11,4 +11,7 @@
 >> - Discriminative Model은 "그 사람이 스팸인지 아닌지를 빠르게 판단하는 능력" → 즉, 정확하게 구분하는 데 집중함
 #### 3. KDE(Kernel Density Estimation)
 - 비지도학습
+- "현재 KDE 모델이 입력 데이터 X를 얼마나 잘 설명하는가"를 나타내는 전체 로그 우도이며, 값이 클수록 모델이 데이터 분포에 더 잘 맞는다는 의미
+- bandwidth를 parameter로 튜닝하여 어떤 bandwidth가 입력데이터를 가장 잘 그럴 듯하게 표현해 주고있는지?
+- 산출식으로는 total_log_likelihood = kde.score(X) 가 가장 큰 bandwidth를 결정하여야 함
 #### 4. GAN, autoencoder 모댈
