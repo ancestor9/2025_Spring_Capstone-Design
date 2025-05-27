@@ -38,7 +38,7 @@
 - KDE: 데이터의 밀도(분포)를 직접 추정
 - 오토인코더: 데이터를 2차원으로(예를 들어) 압축(인코딩)하여 데이터의 특징과 유사성을 저차원에서 나타내고 다시 원래 차원으로 해제(디코딩)하여 원래 데이터와 유사성을 계산
 <img src='https://blog.kakaocdn.net/dn/ZAS36/btqzZKBCb3X/yvuxoSPOMQRd2nHufcR0S1/img.png'>
-
+    - 인용 : https://dataplay.tistory.com/34
 
 
 
